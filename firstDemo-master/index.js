@@ -3,6 +3,5 @@ let func = () => {
 }
 
 function fn() {
-    var a = 2999
-    console.log(a)
+
 }
