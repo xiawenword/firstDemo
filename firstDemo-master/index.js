@@ -3,5 +3,5 @@ let func = () => {
 }
 
 function fn() {
-
+    console.log("faojgiosa")
 }
